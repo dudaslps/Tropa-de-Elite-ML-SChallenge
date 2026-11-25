@@ -1,7 +1,7 @@
-# Tropa-de-Elite-Sprint-3-ML
+# Tropa-de-Elite
 # Modelo de Risco Ambiental e de Sinistro Mecânico — Máquinas Agrícolas
 
-**Sprint 3 — SOMPO Challenge — Grupo TROPA DE ELITE**
+**SOMPO Challenge — Grupo TROPA DE ELITE**
 
 Integrantes: Arthur Costa Donaire (RM571283) · Felipe Pereira de Jesus (RM573263) ·
 Giovanna Pereira de Oliveira (RM570989) · Gustavo Paiva Silva (RM572249) ·
